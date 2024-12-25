@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+.Choice-button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  border-radius: 50px;
+  background-color: azure;
+  cursor: pointer;
+}
+.Choice-image{
+  height: 80px;
+}
+.reset{
+  color: rgb(23, 242, 100);
+  background-attachment: fixed;
+  background-color: rgb(250, 192, 211);
+  width: 80px;
+  border-radius: 15px;
+}
